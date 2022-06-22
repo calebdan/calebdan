@@ -1,4 +1,4 @@
-Good day, my name is Caleb 👋
+Hi, my name is Caleb 👋
 
 A student of University of West London, doing my masters degree in Software Engineering
 
