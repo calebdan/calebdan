@@ -1,11 +1,5 @@
 Good day, my name is Caleb 👋
 
-Currently doing masters in Software Engineering
-at the University of West London.
+A student of University of West London, doing my masters degree in Software Engineering
 
-Native Android developer, using Kotlin
-
-
-- 🌱 I’m currently learning Jetpack Compose
-- 👯 I’m looking to collaborate on Android open source projects
-- 🤔 I’m looking for help with Animation in Jetpack Compose
+Native Android developer, using Kotlin currently learning Jetpack Compose, Go lang for backend and Figma for user experience design.
