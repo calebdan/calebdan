@@ -1,6 +1,6 @@
 **About Me**
 
- Greetings!👋 I'm Caleb Tafawa-Balewa, a passionate junior Android developer originally from Nigeria. I have a deep interest in mobile app development and a strong affinity for all things Android. My journey revolves around turning my dreams into captivating digital experiences.
+ Greetings!👋 I'm Caleb Tafawa-Balewa, a passionate mobile application developer originally from Nigeria. I have a deep interest in mobile app development and a strong affinity for all things Android. My journey revolves around turning my dreams into captivating digital experiences.
 
 **What I Do**
 
