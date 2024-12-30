@@ -1,2 +1,1 @@
-Greetings!👋 I'm Caleb Tafawa-Balewa, 
-A passionate Android app developer from Nigeria venturing into iOS development. I specialize in crafting sleek, user-friendly apps, staying up-to-date with the latest Android and iOS tech. Proficient in Java, Kotlin, and exploring cross-platform solutions, I use tools like Android Studio, Gradle, and Xcode, with expertise in libraries like Retrofit and Firebase. My passion-driven approach, collaborative spirit, and global perspective make me an ideal partner for innovative projects. Let's connect and create something amazing together! 🔥📱
+Greetings!
